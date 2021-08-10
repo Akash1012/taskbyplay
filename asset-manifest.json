@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Akash1012/taskbyplay/static/css/main.7dba7a72.chunk.css",
+    "main.js": "/Akash1012/taskbyplay/static/js/main.c1ba6639.chunk.js",
+    "main.js.map": "/Akash1012/taskbyplay/static/js/main.c1ba6639.chunk.js.map",
+    "runtime-main.js": "/Akash1012/taskbyplay/static/js/runtime-main.4f30431a.js",
+    "runtime-main.js.map": "/Akash1012/taskbyplay/static/js/runtime-main.4f30431a.js.map",
+    "static/css/2.630ef54a.chunk.css": "/Akash1012/taskbyplay/static/css/2.630ef54a.chunk.css",
+    "static/js/2.bf25f336.chunk.js": "/Akash1012/taskbyplay/static/js/2.bf25f336.chunk.js",
+    "static/js/2.bf25f336.chunk.js.map": "/Akash1012/taskbyplay/static/js/2.bf25f336.chunk.js.map",
+    "static/js/3.a1cf0515.chunk.js": "/Akash1012/taskbyplay/static/js/3.a1cf0515.chunk.js",
+    "static/js/3.a1cf0515.chunk.js.map": "/Akash1012/taskbyplay/static/js/3.a1cf0515.chunk.js.map",
+    "index.html": "/Akash1012/taskbyplay/index.html",
+    "static/css/2.630ef54a.chunk.css.map": "/Akash1012/taskbyplay/static/css/2.630ef54a.chunk.css.map",
+    "static/css/main.7dba7a72.chunk.css.map": "/Akash1012/taskbyplay/static/css/main.7dba7a72.chunk.css.map",
+    "static/js/2.bf25f336.chunk.js.LICENSE.txt": "/Akash1012/taskbyplay/static/js/2.bf25f336.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f30431a.js",
+    "static/css/2.630ef54a.chunk.css",
+    "static/js/2.bf25f336.chunk.js",
+    "static/css/main.7dba7a72.chunk.css",
+    "static/js/main.c1ba6639.chunk.js"
+  ]
+}
